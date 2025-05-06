@@ -1,9 +1,9 @@
-# Política de Privacidade — QuizAI
+# Privacy Policy — QuizAI
 
-Este aplicativo não coleta, armazena ou compartilha dados pessoais dos usuários.
+This application does not collect, store, or share any personal data from users.
 
-O QuizAI funciona localmente no dispositivo e não transmite informações para servidores externos.
+QuizAI operates locally on the device and does not transmit information to external servers.
 
-Caso você tenha dúvidas, entre em contato pelo e-mail: seuemail@exemplo.com
+If you have any questions, please contact us at: fredericocox@hotmail.com
 
-Atualizado em: 5 de maio de 2025
+Last updated: May 5, 2025
